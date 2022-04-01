@@ -8,4 +8,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 Me llamo Thomas Pereyra, tengo 20 años y soy de River.
 Mi gusto de helado favorito es el chocolate.
-![imagen](lisa necesita frenos.png)
+![imagen](https://memegenerator.net/img/instances/10764179.jpg)
