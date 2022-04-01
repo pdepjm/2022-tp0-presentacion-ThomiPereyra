@@ -6,5 +6,6 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 ![mi foto](mifoto.jpeg)
 
-Me llamo Thomas Pereyra, tengo 20 años y soy de River
-Mi gusto de helado favorito es el chocolate
+Me llamo Thomas Pereyra, tengo 20 años y soy de River.
+Mi gusto de helado favorito es el chocolate.
+![imagen](lisa necesita frenos.png)
